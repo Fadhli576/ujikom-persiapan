@@ -1,0 +1,23 @@
+laravel livewire + maryui
+composer create-project laravel/laravel:^10.0 kasir-app
+composer require robsontenorio/mary
+php artisan mary:install
+composer require livewire/livewire
+composer require barryvdh/laravel-dompdf
+composer require maatwebsite/excel
+
+
+
+laravel breeze + inertia + reactjs
+composer create-project laravel/laravel:^10.0 kasir-app
+composer require laravel/breeze --dev
+php artisan breeze:install react
+npm install
+npm install @heroicons/react
+npm run dev
+composer require barryvdh/laravel-dompdf
+composer require maatwebsite/excel
+
+cara mengganti akun dii github vs code
+ganti credential manager -> windows manager -> ganti github nya
+rill

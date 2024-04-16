@@ -1,0 +1,13 @@
+      <table>
+        <thead>
+          <tr>
+            <th>No</th>
+            <th>Borrower</th>
+            <th>Book</th>
+            <th>BorrowedAt</th>
+            <th>ReturnedAt</th>
+            <th>Status</th>
+          </tr>
+        </thead>
+      </tbody>
+    </table>
